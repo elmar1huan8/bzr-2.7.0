@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: bzr
+Version: 2.7.0
+Summary: Friendly distributed version control system
+Home-page: http://bazaar.canonical.com/
+Download-URL: https://launchpad.net/bzr/+download
+Author: Canonical Ltd
+Author-email: bazaar@lists.canonical.com
+License: GNU GPL v2
+Classifier: Development Status :: 6 - Mature
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: System Administrators
+Classifier: License :: OSI Approved :: GNU General Public License (GPL)
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: OS Independent
+Classifier: Operating System :: POSIX
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: C
+Classifier: Topic :: Software Development :: Version Control
+License-File: COPYING.txt
+
+b"=================\nREADME for Bazaar\n=================\n\nBazaar (``bzr``) is a decentralized revision control system, designed to be\neasy for developers and end users alike.  Bazaar is part of the GNU project to\ndevelop a complete free operating system <http://www.gnu.org/>, and a project\nof Canonical <http://www.canonical.com/>.\n\nReady-to-install packages are available for most popular operating systems from\n<http://wiki.bazaar.canonical.com/Download/> or you can install from source by\nfollowing the instructions in the INSTALL file.\n\nTo learn how to use Bazaar, see the official documentation in the `doc`\ndirectory or at <http://doc.bazaar.canonical.com/en/>.\n\nFor additional training materials including screencasts and slides,\nvisit our community wiki documentation page at:\n\n    http://wiki.bazaar.canonical.com/Documentation/\n\nBazaar is Free Software, and is released under the GNU General Public License,\nversion 2 or later.\n\nBazaar highlights\n=================\n\nBazaar directly supports both central version control (like cvs/svn) and\ndistributed version control (like git/hg). Developers can organize their\nworkspace in whichever way they want on a per project basis including:\n\n* checkouts (like svn)\n* feature branches (like hg)\n* shared working tree (like git).\n\nIt also directly supports and encourages a large number of development best\npractices like refactoring and pre-commit regression testing. Users can\nchoose between our command line tool and our cross-platform GUI application.\nFor further details, see our website at http://bazaar.canonical.com/en/\n\nFeedback\n========\n\nIf you encounter any problems with Bazaar, need help understanding it, or would\nlike to offer suggestions or feedback, please get in touch with us:\n\n* Ask a question through our web support interface, at \n  https://answers.launchpad.net/bzr/\n\n* Report bugs at https://bugs.launchpad.net/bzr/+filebug\n\n* Write to us at bazaar@lists.canonical.com \n  You can join the list at <https://lists.ubuntu.com/mailman/listinfo/bazaar>.\n  You don't need to subscribe to post, but your first post will be held \n  briefly for manual moderation.\n\n* Talk to us in irc://irc.ubuntu.com/bzr\n\nOur mission is to make a version control tool that developers LOVE to use\nand that casual contributors feel confident with. Please let us know how\nwe're going.\n\nThe Bazaar Team\n"
